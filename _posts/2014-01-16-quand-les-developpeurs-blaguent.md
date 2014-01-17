@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Quand les développeurs blaguent"
-date:   2014-01-16 09:19:11
-categories: joke
+title:  "programmer jokes"
+date:   2014-01-01 07:33:11
+external-url: http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke
 ---
-
-[A lire sans modération](http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke)

@@ -1,4 +1,9 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Jean-Hugues Pinson
+url: http://jhpinson.github.io/
+description: Web Developer
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
 pygments: true
-encoding: UTF-8
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
