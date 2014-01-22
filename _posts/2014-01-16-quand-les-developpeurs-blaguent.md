@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "programmer jokes"
-date:   2014-01-01 07:33:11
-external-url: http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke
+title:  "Créer un template de machine virtuelle sous OpenVZ"
+date:   2014-01-22 09:03:11
+external-url: http://www.webstrat.fr/blog/web-technology/creer-un-template-de-machine-virtuelle-sous-openvz
 ---
